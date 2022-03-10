@@ -1,0 +1,10 @@
+{
+  "Id": "Archipelago",
+  "DisplayName": "Archipelago",
+  "Author": "Epsis",
+  "Version": "0.1",
+  "Enable": false,
+  "Game": "Death's Door",
+  "AssemblyName": "Archipelago.dll",
+  "EntryMethod": "Archipelago.Patcher.Patch"
+}

@@ -1,0 +1,3 @@
+[submodule "Archipelago.MultiClient.Net"]
+	path = Archipelago.MultiClient.Net
+	url = https://github.com/ArchipelagoMW/Archipelago.MultiClient.Net.git

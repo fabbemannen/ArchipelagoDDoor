@@ -1,0 +1,85 @@
+Inventory database populated, contains: 83
+id:itemType:stackCount:maxStack:uiImage:unlocked:currencyCost:specialItemRequirement:prefabName:description;
+id: sword, type: EquipRightHand, stackCount: 1, maxStack: 1, uiImg: _ui_sword (UnityEngine.Sprite), unlocked: True, currCost: 10, specReq: , prefab: WEAPON_Sword, desc: 
+id: hammer, type: EquipRightHand, stackCount: 1, maxStack: 1, uiImg: _ui_hammer (UnityEngine.Sprite), unlocked: True, currCost: 50, specReq: , prefab: WEAPON_Hammer, desc: 
+id: sword_heavy, type: EquipRightHand, stackCount: 1, maxStack: 1, uiImg: _ui_sword (UnityEngine.Sprite), unlocked: True, currCost: 10, specReq: , prefab: WEAPON_Greatsword, desc: 
+id: daggers, type: EquipRightHand, stackCount: 0, maxStack: 1, uiImg: _ui_daggers (UnityEngine.Sprite), unlocked: True, currCost: 10, specReq: , prefab: WEAPON_Daggers, desc: 
+id: umbrella, type: EquipRightHand, stackCount: 0, maxStack: 1, uiImg: _ui_daggers (UnityEngine.Sprite), unlocked: True, currCost: 10, specReq: , prefab: WEAPON_Umbrella, desc: 
+id: spear, type: EquipRightHand, stackCount: 1, maxStack: 1, uiImg: _ui_spear (UnityEngine.Sprite), unlocked: True, currCost: 50, specReq: , prefab: Spear, desc: 
+id: crucifix, type: EquipRightHand, stackCount: 0, maxStack: 1, uiImg: _ui_crucifix (UnityEngine.Sprite), unlocked: True, currCost: 100, specReq: redeemer_soul, prefab: Crucifix, desc: 
+id: truth_sword, type: EquipRightHand, stackCount: 1, maxStack: 1, uiImg: _ui_sword (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: truth, prefab: TRUTH_Sword, desc: 
+id: arrow, type: EquipLeftHand, stackCount: 1, maxStack: 1, uiImg: _ui_bow (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: AP_Basic, desc: 
+id: bombs, type: EquipLeftHand, stackCount: 1, maxStack: 1, uiImg: _ui_seed (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: AP_Bomb, desc: 
+id: hookshot, type: EquipLeftHand, stackCount: 1, maxStack: 1, uiImg: _ui_crucifix (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: AP_Hookshot, desc: 
+id: fire, type: EquipLeftHand, stackCount: 1, maxStack: 1, uiImg: _ui_crucifix (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: AP_Fire, desc: 
+id: seed, type: Consumable, stackCount: 0, maxStack: 99, uiImg: _ui_seed (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: _DROP_seed, desc: 
+id: fake, type: Consumable, desc: 
+id: ench_lightning, type: Enchant, stackCount: 1, maxStack: 1, uiImg: Icons_0 (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: ENCH_Lightning, desc: i_e_lighting
+id: ench_toughness, type: Enchant, stackCount: 1, maxStack: 1, uiImg: Icons_8 (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: ENCH_Toughness, desc: i_e_toughness
+id: ench_fury, type: Enchant, stackCount: 1, maxStack: 1, uiImg: Icons_2 (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: ENCH_Fury, desc: i_e_fury
+id: ench_bounce, type: Enchant, stackCount: 1, maxStack: 1, uiImg: Icons_13 (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: ENCH_Bounce, desc: i_e_bounce
+id: ench_pain, type: Enchant, stackCount: 1, maxStack: 1, uiImg: Icons_4 (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: ENCH_Pain, desc: i_e_pain
+id: ench_might, type: Enchant, stackCount: 1, maxStack: 1, uiImg: Icons_3 (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: ENCH_Might, desc: i_e_might
+id: ench_agility, type: Enchant, stackCount: 1, maxStack: 1, uiImg: Icons_18 (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: ENCH_Agility, desc: i_e_agility
+id: ench_heart, type: Enchant, stackCount: 1, maxStack: 1, uiImg: Icons_17 (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: ENCH_Heart, desc: i_e_heart
+id: ench_power, type: Enchant, stackCount: 1, maxStack: 1, uiImg: Icons_2 (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: ENCH_Power, desc: i_e_power
+id: ench_shadow, type: Enchant, stackCount: 1, maxStack: 1, uiImg: Icons_7 (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: ENCH_Shadow, desc: i_e_shadow
+id: ench_swiftness, type: Enchant, stackCount: 1, maxStack: 1, uiImg: Icons_12 (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: ENCH_Swiftness, desc: i_e_swiftness
+id: ench_greenthumb, type: Enchant, stackCount: 1, maxStack: 1, uiImg: Icons_6 (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: ENCH_Greenthumb, desc: i_e_greenthumb
+id: ench_lightfoot, type: Enchant, stackCount: 1, maxStack: 1, uiImg: Icons_16 (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: ENCH_Lightfoot, desc: i_e_lightfoot
+id: ench_demolition, type: Enchant, stackCount: 1, maxStack: 1, uiImg: Icons_15 (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: ENCH_Demolition, desc: i_e_demolition
+id: ench_photon, type: Enchant, stackCount: 1, maxStack: 1, uiImg: Icons_5 (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: ENCH_Photon, desc: i_e_photon
+id: ench_hard, type: Enchant, stackCount: 1, maxStack: 1, uiImg: Icons_11 (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: ENCH_Hard, desc: i_e_hard
+id: ench_blood, type: Enchant, stackCount: 1, maxStack: 1, uiImg: Icons_19 (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: ENCH_Blood, desc: i_e_blood
+id: ench_beast, type: Enchant, stackCount: 1, maxStack: 1, uiImg: Icons_19 (UnityEngine.Sprite), unlocked: True, currCost: 0, specReq: , prefab: ENCH_Beast, desc: i_e_beast
+id: currency, type: Collectable, desc: shiny things
+id: flowerboss_soul, type: Collectable, desc: Mother to the forest spirits
+id: soul_yeti, type: Collectable, desc: Beautiful Betty
+id: soul_frog, type: Collectable, desc: Beautiful Betty
+id: soul_gran, type: Collectable, desc: Grandma's Soul
+id: soul_redeemer, type: Collectable, desc: Leader of the Church of the Redeemers, this beast once...
+id: gravedigger_soul, type: Collectable, desc: Sad story goes here
+id: oldcrow_soul, type: Collectable, desc: Old crow info
+id: heart_shard, type: Collectable, desc: heart_shard
+id: arrow_shard, type: Collectable, desc: arrow_shard
+id: trinket_ring, type: Collectable, desc: trinket0
+id: trinket_compass, type: Collectable, desc: trinket1
+id: trinket_incense, type: Collectable, desc: trinket2
+id: trinket_flower, type: Collectable, desc: trinket_flower_desc
+id: trinket_photo, type: Collectable, desc: 
+id: trinket_elixir, type: Collectable, desc: 
+id: trinket_coin, type: Collectable, desc: 
+id: trinket_trowel, type: Collectable, desc: 
+id: trinket_journal, type: Collectable, desc: 
+id: trinket_arrow, type: Collectable, desc: 
+id: trinket_seed, type: Collectable, desc: 
+id: trinket_antler, type: Collectable, desc: 
+id: trinket_basoon, type: Collectable, desc: 
+id: trinket_crown, type: Collectable, desc: 
+id: trinket_mask, type: Collectable, desc: 
+id: trinket_medal, type: Collectable, desc: 
+id: trinket_teddy, type: Collectable, desc: 
+id: trinket_door_old, type: Collectable, desc: 
+id: trinket_door_new, type: Collectable, desc: 
+id: trinket_soulkey, type: Collectable, desc: 
+id: trinket_surv, type: Collectable, desc: 
+id: trinket_contract, type: Collectable, desc: 
+id: trinket_rusty_key, type: Collectable, desc: 
+id: trinket_locket, type: Collectable, desc: 
+id: upgrade_sword, type: Enchant, desc: upgrade_sword
+id: upgrade_roll, type: Enchant, desc: upgrade_roll
+id: upgrade_arrow, type: Enchant, desc: upgrade_arrow
+id: upgrade_fire, type: Enchant, desc: upgrade_fire
+id: upgrade_bomb, type: Enchant, desc: upgrade_bomb
+id: upgrade_hook, type: Enchant, desc: upgrade_hook
+id: stat_melee, type: Enchant, desc: upgrade_sword
+id: stat_dexterity, type: Enchant, desc: upgrade_arrow
+id: stat_haste, type: Enchant, desc: upgrade_arrow
+id: stat_magic, type: Enchant, desc: upgrade_roll
+id: truthtablet_1, type: Collectable, desc: 
+id: truthtablet_2, type: Collectable, desc: 
+id: truthtablet_3, type: Collectable, desc: 
+id: truthtablet_4, type: Collectable, desc: 
+id: truthtablet_5, type: Collectable, desc: 
+id: truthtablet_6, type: Collectable, desc: 
+id: truthtablet_7, type: Collectable, desc: 

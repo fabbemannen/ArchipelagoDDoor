@@ -1,0 +1,22 @@
+2021-04-12 13:56:12 UTC
+2021-04-12 15:56:12 LOCAL
+
+64-bit, Unity 2019-4-29:60130
+
+::::::::::Core::::::::::
+-GameSave
+spawnScene - "lvl_HallOfDoors"
+
+-Inventory
+AddItem("sword", 1, false);
+
+::::::::::Important::::::::::
+DropItem.Trigger() - Pickup logic (the good stuff)
+
+::::::::::Maybe important::::::::::
+key-stuff -> Unlock - Generally how the game unlocks things
+
+::::::::::Maybe not needed::::::::::
+GameSave.AddToCountKey()
+SpeechComplete()
+Item_HeartContainer.giveExtraStats() - Increase max HP and max arrows
